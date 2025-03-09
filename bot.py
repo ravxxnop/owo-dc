@@ -13,7 +13,7 @@ DISCORD_EMAIL = 'tet.ru.am.artos@gmail.com'
 DISCORD_PASSWORD = 'tet.ru.am.artos@gmail.com'
 
 # Channel link (replace with your channel link)
-CHANNEL_LINK = 'https://discord.com/channels/921975274294349834/922559868362182746'
+CHANNEL_LINK = 'https://discord.com/channels/1334088525397889055/1339159832938414130'
 
 # Browser setup (headless mode)
 chrome_options = Options()
