@@ -156,8 +156,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 2'...")
-            find_input_field_and_send("owo bj 2")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(20)
 
             print("Sending 'owo cf 55 t'...")
@@ -192,8 +192,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 1'...")
-            find_input_field_and_send("owo bj 1")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(20)
 
             print("Sending 'owo cf 55 t'...")
@@ -228,8 +228,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 2'...")
-            find_input_field_and_send("owo bj 2")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(20)
 
             print("Sending 'owo cf 55 t'...")
@@ -264,8 +264,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 3'...")
-            find_input_field_and_send("owo bj 3")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(20)
 
             print("Sending 'owo cf 55 t'...")
@@ -336,8 +336,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 1'...")
-            find_input_field_and_send("owo bj 1")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(20)
 
             print("Sending 'owo cf 55 t'...")
@@ -372,8 +372,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 2'...")
-            find_input_field_and_send("owo bj 2")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(20)
 
             print("Sending 'owo cf 55 t'...")
@@ -408,8 +408,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 2'...")
-            find_input_field_and_send("owo bj 2")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(20)
 
             print("Sending 'owo cf 55 t'...")
@@ -444,8 +444,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 3'...")
-            find_input_field_and_send("owo bj 3")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(5)
 
             print("Sending 'Level up'...")  
@@ -1020,8 +1020,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 3'...")
-            find_input_field_and_send("owo bj 3")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(20)
 
             print("Sending 'owo cf 55 t'...")
@@ -1056,8 +1056,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 2'...")
-            find_input_field_and_send("owo bj 2")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(20)
 
             print("Sending 'owo cf 55 t'...")
@@ -1092,8 +1092,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 1'...")
-            find_input_field_and_send("owo bj 1")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(20)
 
             print("Sending 'owo cf 55 t'...")
@@ -1128,8 +1128,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 1'...")
-            find_input_field_and_send("owo bj 1")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(20)
 
             print("Sending 'owo cf 55 t'...")
@@ -1200,8 +1200,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 2'...")
-            find_input_field_and_send("owo bj 2")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(20)
 
             print("Sending 'owo cf 55 t'...")
@@ -1236,8 +1236,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 1'...")
-            find_input_field_and_send("owo bj 1")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(20)
 
             print("Sending 'owo cf 55 t'...")
@@ -1272,8 +1272,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 1'...")
-            find_input_field_and_send("owo bj 1")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(20)
 
             print("Sending 'owo cf 55 t'...")
@@ -1308,8 +1308,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 1'...")
-            find_input_field_and_send("owo bj 1")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(5)
 
             print("Sending 'owo s 16'...")
@@ -1324,6 +1324,10 @@ async def send_messages():
             find_input_field_and_send("owo cf 51 h")
             await asyncio.sleep(16)
 
+            print("Sending 'owo cookie'...")
+            find_input_field_and_send("owo cookie")
+            await asyncio.sleep(16)
+
             print("Sending 'owo h'...")
             find_input_field_and_send("owo h")
             await asyncio.sleep(10)
@@ -1336,8 +1340,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 2'...")
-            find_input_field_and_send("owo bj 2")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(20)
 
             print("Sending 'owo cf 55 t'...")
@@ -1372,8 +1376,8 @@ async def send_messages():
             find_input_field_and_send("owo cf 56 t")
             await asyncio.sleep(16)
 
-            print("Sending 'owo bj 1'...")
-            find_input_field_and_send("owo bj 1")
+            print("Sending 'owo b'...")
+            find_input_field_and_send("owo b")
             await asyncio.sleep(5)
 
             print("Sending 'UWU HACKED'...")
